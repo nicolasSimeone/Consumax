@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Consumax</string>
+    <string name="facebook_app_id">1900839850243769</string>
+    <string name="fb_login_protocol_scheme">fb1900839850243769</string>
+    <string name="title_activity_maps">Sucursales</string>
+    <string name="title_activity_comercios">Comercios</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="btn_link_to_register">No eres miembro? Registrate ahora!</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="hint_email">Email Consumax</string>
+    <string name="hint_password">Password</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_forgot_password">Olvidaste tu clave?</string>
+    <string name="email">Email</string>
+    <string name="action_sign_in_short">Registrate</string>
+    <string name="btn_link_to_login">Ya estoy registrado. Login Me!</string>
+    <string name="minimum_password">Su contraseña es muy corta, debe tener un minimo de 6 caracteres!</string>
+    <string name="auth_failed">Authentication failed, checkea tu email y password o Registrate!</string>
+    <string name="lbl_forgot_password">Olvidaste tu Contraseña?</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_reset_password">Resetear Contraseña</string>
+    <string name="forgot_password_msg">Necesitarameros registrar tu email para enviarte las instrucciones de reseteo.</string>
+    <string name="title_activity_promociones_mapa">Map</string>
+</resources>

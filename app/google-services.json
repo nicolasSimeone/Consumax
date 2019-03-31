@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "849470208227",
+    "firebase_url": "https://consumax-app.firebaseio.com",
+    "project_id": "consumax-app",
+    "storage_bucket": "consumax-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849470208227:android:a1b9784d01172f87",
+        "android_client_info": {
+          "package_name": "cabureweb.consumax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849470208227-35ljg7t8n568hkep00cf6l9qvou6amnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cabureweb.consumax",
+            "certificate_hash": "53ecba2fceb99f890176838c21ae3a169905ab2f"
+          }
+        },
+        {
+          "client_id": "849470208227-743icu2g4eaghur63cjdrk0lh7l8hm11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cabureweb.consumax",
+            "certificate_hash": "e24e3c3b4b23f2903b72231719dc9323d56066f3"
+          }
+        },
+        {
+          "client_id": "849470208227-bn7r7jvaf2ol3hg30eq0se957jatnhm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cabureweb.consumax",
+            "certificate_hash": "84d034bc9cff7d091c5c876d7e89459f9a8c65c6"
+          }
+        },
+        {
+          "client_id": "849470208227-km4os7vhush6b8rf3sgablut3ke7uk91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4cjWHuA_hkpHFwLBAe7CDtCiphcYlI4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849470208227-km4os7vhush6b8rf3sgablut3ke7uk91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849470208227:android:652801ed0e361938",
+        "android_client_info": {
+          "package_name": "cabureweb.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849470208227-e0r9r7n32svc4bdv2rk63lcueren569q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cabureweb.myapplication",
+            "certificate_hash": "84d034bc9cff7d091c5c876d7e89459f9a8c65c6"
+          }
+        },
+        {
+          "client_id": "849470208227-km4os7vhush6b8rf3sgablut3ke7uk91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4cjWHuA_hkpHFwLBAe7CDtCiphcYlI4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849470208227-km4os7vhush6b8rf3sgablut3ke7uk91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

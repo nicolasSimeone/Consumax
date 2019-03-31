@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Sucursales"
+        android:title="Sucursales" android:icon="@drawable/sucursalesmenu"/>
+
+    <item android:id="@+id/Promociones"
+        android:title="Promociones" android:icon="@drawable/promocionesmenu" />
+
+    <item android:id="@+id/Comercios"
+        android:title="Comercios" android:icon="@drawable/comerciospuntomaxmenu"/>
+
+    <item android:id="@+id/LogOut"
+        android:title="LogOut" android:icon="@drawable/ic_action_name">
+    </item>
+
+
+</menu>
